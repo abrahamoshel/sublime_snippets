@@ -9,5 +9,4 @@
 ]]></content>
   <tabTrigger>grid</tabTrigger>
   <description>Bootstrap basic four column grid</description>
-  <scope>text.html</scope>
 </snippet>
