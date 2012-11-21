@@ -7,7 +7,7 @@
   <div class="span3">${4:Column 4}</div>
 </div>
 ]]></content>
-  <tabTrigger>tbgrid:4</tabTrigger>
+  <tabTrigger>grid</tabTrigger>
   <description>Bootstrap basic four column grid</description>
   <scope>text.html</scope>
 </snippet>
